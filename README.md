@@ -12,3 +12,20 @@ This app shows details of user with search functionailty. Anyone can search for 
 git clone https://github.com/aman2003s/kreate-assignment.git
 ````
 
+- Go to project directory
+````
+cd kreate-assignment
+````
+
+- Install dependencies
+````
+npm install
+````
+
+- Run App
+````
+npm run dev
+````
+
+- App will run on url: http://localhost:5173/
+
