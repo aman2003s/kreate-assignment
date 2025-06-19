@@ -9,7 +9,7 @@ function debounce(callbackFn, delay) {
   return (...args) => {
     clearTimeout(timerId);
     let context = this;
-    setTimeout(() => callbackFn.apply(context, args), delay);
+    timerId= setTimeout(() => callbackFn.apply(context, args), delay);
   };
 }
 
