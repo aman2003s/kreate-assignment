@@ -1,4 +1,4 @@
-# React + Vite
+# User profile app
 
 This app shows details of user with search functionailty. Anyone can search for user just by typing name of user in the search box. Initial details are shown in form of cards, after clicking on the cards it shows all the details of that specific user.
 
